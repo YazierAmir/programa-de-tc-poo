@@ -17,4 +17,12 @@ private String controlvenderores;
 	 
  }
 
+public String getControlvenderores() {
+	return controlvenderores;
+}
+
+public void setControlvenderores(String controlvenderores) {
+	this.controlvenderores = controlvenderores;
+}
+
 }
