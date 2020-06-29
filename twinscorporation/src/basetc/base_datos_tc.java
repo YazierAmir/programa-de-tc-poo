@@ -39,5 +39,6 @@ public String getCursos() {
 public void setCursos(String cursos) {
 	this.cursos = cursos;
 }
-
+	
+	 
 }
